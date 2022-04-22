@@ -1,5 +1,7 @@
 # MySQL in Docker
 
+![GitHub](https://img.shields.io/github/license/desecho/mysql-docker)
+
 To bring up MySQL run
 ```bash
 make up
