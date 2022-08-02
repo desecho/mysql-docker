@@ -1,12 +1,7 @@
-TARGET_MAX_CHAR_NUM := 25
-
-# COLORS
-GREEN  := \033[0;32m
-YELLOW := \033[0;33m
-RESET  := \033[0;10m
+TARGET_MAX_CHAR_NUM := 30
 
 .PHONY: help
-## Show help
+## Show help | Help
 help:
 	@echo ''
 	@echo 'Usage:'
